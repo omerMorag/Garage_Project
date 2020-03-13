@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.GarageLogic", "Ex03.GarageLogic\Ex03.GarageLogic.csproj", "{349B7C66-FBB6-4B52-83F9-6C3FB5EFC225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.ConsoleUI", "Ex03.ConsoleUI\Ex03.ConsoleUI.csproj", "{375CAD3D-2CA9-40CD-B765-716459F2434A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E6AFF34F-1183-49BE-B0E4-E46776394E50}"
+	ProjectSection(SolutionItems) = preProject
+		B19 Ex03 Omer 308301100 Sivan 307831636.docx = B19 Ex03 Omer 308301100 Sivan 307831636.docx
+		Exercise Checking Report.txt = Exercise Checking Report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349B7C66-FBB6-4B52-83F9-6C3FB5EFC225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349B7C66-FBB6-4B52-83F9-6C3FB5EFC225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349B7C66-FBB6-4B52-83F9-6C3FB5EFC225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349B7C66-FBB6-4B52-83F9-6C3FB5EFC225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375CAD3D-2CA9-40CD-B765-716459F2434A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375CAD3D-2CA9-40CD-B765-716459F2434A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375CAD3D-2CA9-40CD-B765-716459F2434A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375CAD3D-2CA9-40CD-B765-716459F2434A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D98EDF28-BC52-4FC9-AF1F-109D0F98E7A9}
+	EndGlobalSection
+EndGlobal
